@@ -1,0 +1,7 @@
+streamlit
+openai
+pytubefix
+langchain
+langchain-openai
+fastmcp
+pandas
